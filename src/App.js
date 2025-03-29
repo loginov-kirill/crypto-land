@@ -29,6 +29,8 @@ function Header() {
     <header className="header">
       <div className="header-left">
         <h1 className="logo">ИРИШАСУПЕРСТАРКРИПТОМАНИМЕЙКЕР</h1>
+      </div>
+      <div className="header-right">
         <nav className="nav">
           <a href="#founder" className="nav-link">Основатель</a>
           <a href="#tariffs" className="nav-link">Тарифы</a>
@@ -38,13 +40,13 @@ function Header() {
           <a href="#demo" className="nav-link">Демо</a>
           <a href="#faq" className="nav-link">FAQ</a>
         </nav>
-      </div>
-      <div className="header-right">
         <button className="sign-up-button">Записаться</button>
       </div>
     </header>
   );
 }
+
+
 
 /* ---------------------------------- ГЛАВНЫЙ КОНТЕНТ (MainContent) ---------------------------------- */
 function MainContent() {

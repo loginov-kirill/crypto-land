@@ -84,6 +84,16 @@
   .nav-link:hover::after {
     width: 100%;
   }
+  .header-right {
+    display: flex;         /* Чтобы навигация и кнопка шли в одну строку */
+    align-items: center;   /* Выравниваем по вертикали по центру */
+    gap: 16px;             /* Расстояние между блоками (навигацией и кнопкой) */
+  }
+  
+  .nav {
+    display: flex;         /* Ссылки в одну строку */
+    gap: 16px;             /* Расстояние между ссылками */
+  }
   
   .header-right .sign-up-button {
     background-color: #9b51e0;
