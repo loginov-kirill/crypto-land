@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/crypto-land/static/css/main.d87a4c70.css",
-    "main.js": "/crypto-land/static/js/main.e731062a.js",
+    "main.css": "/crypto-land/static/css/main.8275390e.css",
+    "main.js": "/crypto-land/static/js/main.1ae988d7.js",
     "index.html": "/crypto-land/index.html",
-    "main.d87a4c70.css.map": "/crypto-land/static/css/main.d87a4c70.css.map",
-    "main.e731062a.js.map": "/crypto-land/static/js/main.e731062a.js.map"
+    "main.8275390e.css.map": "/crypto-land/static/css/main.8275390e.css.map",
+    "main.1ae988d7.js.map": "/crypto-land/static/js/main.1ae988d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d87a4c70.css",
-    "static/js/main.e731062a.js"
+    "static/css/main.8275390e.css",
+    "static/js/main.1ae988d7.js"
   ]
 }
